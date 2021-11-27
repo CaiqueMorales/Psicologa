@@ -118,3 +118,17 @@ h4{
     }
 
 }
+
+
+/* ============================== Styling ============================== */
+
+/* ==================== Header ==================== */
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav a:hover{
+    text-decoration: underline;
+}
